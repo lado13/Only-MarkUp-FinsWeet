@@ -6,6 +6,10 @@ header {
   background-color: #1C1E53;
   padding: 0 160px !important;
 }
+header .cont-fluid {
+  max-width: 1525px;
+  margin: auto;
+}
 header .btn-box {
   margin-bottom: 122px;
   margin-top: 32px;
@@ -555,6 +559,8 @@ header .inner-text-box .content-box p {
 }
 .section-nine .content-box {
   padding: 0 113px 0 113px;
+  max-width: 1525px;
+  margin: auto;
 }
 .section-nine .content-box .coll a {
   color: black !important;
